@@ -1,0 +1,11 @@
+
+- [plotnine readthedocs.io](https://plotnine.readthedocs.io/en/stable/)
+- [ggplot2 book by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen](https://ggplot2-book.org/index.html)
+- [plotnine book (local subfolder)](./documents/plotnine-guide.pdf)
+- https://towardsdatascience.com/create-a-scientific-data-visualization-from-scratch-using-plotnine-in-python-c420dc4b3376
+- https://realpython.com/ggplot-python/
+- https://datacarpentry.org/python-ecology-lesson/07-visualization-ggplot-python/index.html
+- https://ggplot2-book.org/annotations.html
+- http://www.sthda.com/english/wiki/ggplot2-texts-add-text-annotations-to-a-graph-in-r-software
+- Font size: https://www.statology.org/ggplot-font-size/
+- Colour scales: https://ggplot2-book.org/scale-colour.html
