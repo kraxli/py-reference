@@ -1,0 +1,93 @@
+scrabble_time,resort,date,location,temperature,temperature_unit,temperature_min,temperature_max,wind_speed,wind_direction,wind_unit,altitude,text,frezzing_unit,freezing_level,snow,snow_unit
+2019-01-14 15:18:27,Damavand,2019-01-14,"Tehran-Mehrabad International Airport, Elevation level: 1191m",6.4,,,,10,SSE,,1191,,,,,
+2019-01-14 15:18:26,Damavand,2019-01-14,,,Max/Min (°C),-15,-16,95,WSW,Wind (km/h),4909,light snow,m,2550,8,cm
+2019-01-14 15:18:28,Sahand-Ski-Resort,2019-01-14,"Tabriz Airport, Elevation level: 1361m",7,,,,10,W,,1361,,,,,
+2019-01-14 15:18:27,Sahand-Ski-Resort,2019-01-14,,,Max/Min (°C),-8,-9,20,WSW,Wind (km/h),3105,moderate snow,m,1550,15,cm
+2019-01-15 15:10:24,Damavand,2019-01-15,"Tehran-Mehrabad International Airport, Elevation level: 1191m",13.2,,,,30,WNW,,1191,,,,,
+2019-01-15 15:10:23,Damavand,2019-01-15,,,Max/Min (°C),-18,-19,65,WSW,Wind (km/h),4909,clear,m,2200,0,cm
+2019-01-15 15:10:26,Sahand-Ski-Resort,2019-01-15,"Tabriz Airport, Elevation level: 1361m",8.4,,,,25,WSW,,1361,,,,,
+2019-01-15 15:10:25,Sahand-Ski-Resort,2019-01-15,,,Max/Min (°C),-7,-9,20,WSW,Wind (km/h),3105,snow showers,m,1600,0,cm
+2019-01-16 07:39:10,Damavand,2019-01-16,"Tehran-Mehrabad International Airport, Elevation level: 1191m",9.7,,,,5,SW,,1191,,,,,
+2019-01-16 07:38:07,Damavand,2019-01-16,,,Max/Min (°C),-14,-16,35.0,WSW,Wind (km/h),4909,clear,m,2550,3,cm
+2019-01-16 07:40:32,Sahand-Ski-Resort,2019-01-16,"Tabriz Airport, Elevation level: 1361m",1.2,,,,5,NE,,1361,,,,,
+2019-01-16 07:39:46,Sahand-Ski-Resort,2019-01-16,,,Max/Min (°C),-6,-8,30.0,SW,Wind (km/h),3105,clear,m,1750,10,cm
+2019-01-17 07:15:52,Damavand,2019-01-17,"Tehran-Mehrabad International Airport, Elevation level: 1191m",8.6,,,,5,ESE,,1191,,,,,
+2019-01-17 07:15:52,Damavand,2019-01-17,,,Max/Min (°C),-15,-22,60.0,SSW,Wind (km/h),4909,snow showers,m,2100,19,cm
+2019-01-17 07:15:55,Sahand-Ski-Resort,2019-01-17,"Tabriz Airport, Elevation level: 1361m",1.2,,,,5,NW,,1361,,,,,
+2019-01-17 07:15:54,Sahand-Ski-Resort,2019-01-17,,,Max/Min (°C),-9,-12,10.0,SSW,Wind (km/h),3105,moderate snow,m,1550,44,cm
+2019-01-18 07:59:02,Damavand,2019-01-18,"Tehran-Mehrabad International Airport, Elevation level: 1191m",1.2,,,,30,W,,1191,,,,,
+2019-01-18 07:59:02,Damavand,2019-01-18,,,Max/Min (°C),-24,-27,20.0,W,Wind (km/h),4909,snow showers,m,950,3,cm
+2019-01-18 07:59:09,Sahand-Ski-Resort,2019-01-18,"Tabriz Airport, Elevation level: 1361m",-4.2,,,,10,NE,,1361,,,,,
+2019-01-18 07:59:08,Sahand-Ski-Resort,2019-01-18,,,Max/Min (°C),-13,-14,10.0,NNE,Wind (km/h),3105,light snow,m,950,14,cm
+2019-01-19 20:49:21,Damavand,2019-01-19,"Tehran-Mehrabad International Airport, Elevation level: 1191m",2.0,,,,15,WNW,,1191,,,,,
+2019-01-19 20:49:21,Damavand,2019-01-19,,,Max/Min (°C),-26,-28,15.0,WNW,Wind (km/h),5671,partly cloudy,m,1350,0,cm
+2019-01-19 20:49:22,Damavand,2019-01-19,,,Max/Min (°C),-21,-23,10.0,WNW,Wind (km/h),4909,partly cloudy,m,1350,0,cm
+2019-01-19 20:49:22,Damavand,2019-01-19,,,Max/Min (°C),-17,-21,5.0,WNW,Wind (km/h),4147,partly cloudy,m,1350,0,cm
+2019-01-19 20:49:23,Sahand-Ski-Resort,2019-01-19,"Tabriz Airport, Elevation level: 1361m",-7.2,,,,0,N,,1361,,,,,
+2019-01-19 20:49:23,Sahand-Ski-Resort,2019-01-19,,,Max/Min (°C),-11,-12,10.0,W,Wind (km/h),3295,clear,m,1100,0,cm
+2019-01-19 20:49:24,Sahand-Ski-Resort,2019-01-19,,,Max/Min (°C),-10,-11,5.0,WNW,Wind (km/h),3105,clear,m,1100,0,cm
+2019-01-19 20:49:24,Sahand-Ski-Resort,2019-01-19,,,Max/Min (°C),-10,-14,5.0,WNW,Wind (km/h),2915,clear,m,1100,0,cm
+2019-01-20 08:44:16,Damavand,2019-01-20,"Tehran-Mehrabad International Airport, Elevation level: 1191m",1.1,,,,10,SW,,1191,,,,,
+2019-01-20 08:44:16,Damavand,2019-01-20,,,Max/Min (°C),-26,-28,15.0,WNW,Wind (km/h),5671,partly cloudy,m,1400,0,cm
+2019-01-20 08:44:16,Damavand,2019-01-20,,,Max/Min (°C),-21,-23,10.0,WNW,Wind (km/h),4909,partly cloudy,m,1400,0,cm
+2019-01-20 08:44:17,Damavand,2019-01-20,,,Max/Min (°C),-17,-21,5.0,NW,Wind (km/h),4147,partly cloudy,m,1400,0,cm
+2019-01-20 08:44:18,Sahand-Ski-Resort,2019-01-20,"Tabriz Airport, Elevation level: 1361m",-6.0,,,,10,NE,,1361,,,,,
+2019-01-20 08:44:17,Sahand-Ski-Resort,2019-01-20,,,Max/Min (°C),-11,-12,10.0,W,Wind (km/h),3295,clear,m,1100,0,cm
+2019-01-20 08:44:18,Sahand-Ski-Resort,2019-01-20,,,Max/Min (°C),-10,-11,5.0,W,Wind (km/h),3105,clear,m,1100,0,cm
+2019-01-20 08:44:19,Sahand-Ski-Resort,2019-01-20,,,Max/Min (°C),-10,-14,5.0,W,Wind (km/h),2915,clear,m,1100,0,cm
+2019-01-21 07:21:44,Damavand,2019-01-21,"Tehran-Mehrabad International Airport, Elevation level: 1191m",-0.5,,,,0,N,,1191,,,,,
+2019-01-21 07:21:44,Damavand,2019-01-21,,,Max/Min (°C),-27,-29,30.0,WNW,Wind (km/h),5671,partly cloudy,m,1550,0,cm
+2019-01-21 07:21:45,Damavand,2019-01-21,,,Max/Min (°C),-22,-23,20.0,WNW,Wind (km/h),4909,partly cloudy,m,1550,0,cm
+2019-01-21 07:21:45,Damavand,2019-01-21,,,Max/Min (°C),-16,-22,15.0,W,Wind (km/h),4147,partly cloudy,m,1550,0,cm
+2019-01-21 07:21:46,Sahand-Ski-Resort,2019-01-21,"Tabriz Airport, Elevation level: 1361m",-8.6,,,,5,E,,1361,,,,,
+2019-01-21 07:21:46,Sahand-Ski-Resort,2019-01-21,,,Max/Min (°C),-11,-11,10.0,W,Wind (km/h),3295,clear,m,1200,0,cm
+2019-01-21 07:21:47,Sahand-Ski-Resort,2019-01-21,,,Max/Min (°C),-9,-10,10.0,WSW,Wind (km/h),3105,clear,m,1200,0,cm
+2019-01-21 07:21:47,Sahand-Ski-Resort,2019-01-21,,,Max/Min (°C),-9,-13,10.0,WSW,Wind (km/h),2915,clear,m,1200,0,cm
+2019-01-22 07:05:03,Damavand,2019-01-22,"Tehran-Mehrabad International Airport, Elevation level: 1191m",-0.1,,,,0,N,,1191,,,,,
+2019-01-22 07:05:02,Damavand,2019-01-22,,,Max/Min (°C),-27,-28,25.0,W,Wind (km/h),5671,partly cloudy,m,1750,1,cm
+2019-01-22 07:05:04,Damavand,2019-01-22,,,Max/Min (°C),-21,-22,20.0,W,Wind (km/h),4909,partly cloudy,m,1750,2,cm
+2019-01-22 07:05:07,Damavand,2019-01-22,,,Max/Min (°C),-15,-20,10.0,W,Wind (km/h),4147,partly cloudy,m,1750,2,cm
+2019-01-22 07:05:11,Sahand-Ski-Resort,2019-01-22,"Tabriz Airport, Elevation level: 1361m",-8.0,,,,10,NE,,1361,,,,,
+2019-01-22 07:05:10,Sahand-Ski-Resort,2019-01-22,,,Max/Min (°C),-10,-11,10.0,W,Wind (km/h),3295,light snow,m,1400,0,cm
+2019-01-22 07:05:12,Sahand-Ski-Resort,2019-01-22,,,Max/Min (°C),-9,-10,10.0,W,Wind (km/h),3105,light snow,m,1400,0,cm
+2019-01-22 07:05:14,Sahand-Ski-Resort,2019-01-22,,,Max/Min (°C),-9,-12,10.0,W,Wind (km/h),2915,light snow,m,1400,0,cm
+2019-01-23 07:52:02,Damavand,2019-01-23,"Tehran-Mehrabad International Airport, Elevation level: 1191m",4.3,,,,0,N,,1191,,,,,
+2019-01-23 07:52:01,Damavand,2019-01-23,,,Max/Min (°C),-27,-29,15.0,NW,Wind (km/h),5671,snow showers,m,1700,1,cm
+2019-01-23 07:52:03,Damavand,2019-01-23,,,Max/Min (°C),-22,-23,10.0,NW,Wind (km/h),4909,snow showers,m,1700,1,cm
+2019-01-23 07:52:05,Damavand,2019-01-23,,,Max/Min (°C),-16,-20,5.0,NW,Wind (km/h),4147,snow showers,m,1700,2,cm
+2019-01-23 07:52:11,Sahand-Ski-Resort,2019-01-23,"Tabriz Airport, Elevation level: 1361m",-4.0,,,,10,ENE,,1361,,,,,
+2019-01-23 07:52:09,Sahand-Ski-Resort,2019-01-23,,,Max/Min (°C),-11,-11,10.0,SW,Wind (km/h),3295,clear,m,1350,0,cm
+2019-01-23 07:52:13,Sahand-Ski-Resort,2019-01-23,,,Max/Min (°C),-9,-10,10.0,SW,Wind (km/h),3105,clear,m,1350,0,cm
+2019-01-23 07:52:19,Sahand-Ski-Resort,2019-01-23,,,Max/Min (°C),-9,-13,10.0,SW,Wind (km/h),2915,clear,m,1350,0,cm
+2019-01-27 09:05:03,Damavand,2019-01-27,"Tehran-Mehrabad International Airport, Elevation level: 1191m",11.7,,,,5,ESE,,1191,,,,,
+2019-01-27 09:05:02,Damavand,2019-01-27,,,Max/Min (°C),-18,-20,60.0,W,Wind (km/h),5671,clear,m,2750,6,cm
+2019-01-27 09:05:03,Damavand,2019-01-27,,,Max/Min (°C),-13,-15,45.0,W,Wind (km/h),4909,clear,m,2750,9,cm
+2019-01-27 09:05:05,Damavand,2019-01-27,,,Max/Min (°C),-8,-13,30.0,W,Wind (km/h),4147,clear,m,2750,9,cm
+2019-01-27 09:05:07,Sahand-Ski-Resort,2019-01-27,"Tabriz Airport, Elevation level: 1361m",2.0,,,,10,ENE,,1361,,,,,
+2019-01-27 09:05:07,Sahand-Ski-Resort,2019-01-27,,,Max/Min (°C),-3,-6,30.0,SW,Wind (km/h),3295,partly cloudy,m,2400,30,cm
+2019-01-27 09:05:08,Sahand-Ski-Resort,2019-01-27,,,Max/Min (°C),-2,-4,30.0,SW,Wind (km/h),3105,snow showers,m,2400,29,cm
+2019-01-27 09:05:10,Sahand-Ski-Resort,2019-01-27,,,Max/Min (°C),-3,-7,25.0,SW,Wind (km/h),2915,snow showers,m,2400,28,cm
+2019-02-01 09:05:03,Damavand,2019-02-01,"Tehran-Mehrabad International Airport, Elevation level: 1191m",8.8,,,,20,WSW,,1191,,,,,
+2019-02-01 09:05:02,Damavand,2019-02-01,,,Max/Min (°C),-22,-24,70.0,W,Wind (km/h),5671,clear,m,2150,0,cm
+2019-02-01 09:05:03,Damavand,2019-02-01,,,Max/Min (°C),-17,-19,55.0,W,Wind (km/h),4909,clear,m,2150,0,cm
+2019-02-01 09:05:04,Damavand,2019-02-01,,,Max/Min (°C),-12,-17,35.0,W,Wind (km/h),4147,clear,m,2150,0,cm
+2019-02-01 09:05:06,Sahand-Ski-Resort,2019-02-01,"Tabriz Airport, Elevation level: 1361m",1.8,,,,5,ENE,,1361,,,,,
+2019-02-01 09:05:05,Sahand-Ski-Resort,2019-02-01,,,Max/Min (°C),-9,-10,15.0,WSW,Wind (km/h),3295,light snow,m,1700,1,cm
+2019-02-01 09:05:06,Sahand-Ski-Resort,2019-02-01,,,Max/Min (°C),-8,-9,15.0,WSW,Wind (km/h),3105,light snow,m,1700,1,cm
+2019-02-01 09:05:08,Sahand-Ski-Resort,2019-02-01,,,Max/Min (°C),-7,-9,15.0,WSW,Wind (km/h),2915,light snow,m,1700,1,cm
+2019-02-23 09:05:02,Damavand,2019-02-23,"Tehran-Mehrabad International Airport, Elevation level: 1191m",9.8,,,,5,WSW,,1191,,,,,
+2019-02-23 09:05:01,Damavand,2019-02-23,,,Max/Min (°C),-26,-28,30.0,W,Wind (km/h),5671,clear,m,1850,0,cm
+2019-02-23 09:05:02,Damavand,2019-02-23,,,Max/Min (°C),-21,-22,20.0,W,Wind (km/h),4909,clear,m,1850,1,cm
+2019-02-23 09:05:03,Damavand,2019-02-23,,,Max/Min (°C),-15,-20,15.0,WSW,Wind (km/h),4147,clear,m,1850,1,cm
+2019-02-23 09:05:04,Sahand-Ski-Resort,2019-02-23,"Tabriz Airport, Elevation level: 1361m",3.2,,,,10,ENE,,1361,,,,,
+2019-02-23 09:05:04,Sahand-Ski-Resort,2019-02-23,,,Max/Min (°C),-9,-10,10.0,W,Wind (km/h),3295,light snow,m,1700,1,cm
+2019-02-23 09:05:05,Sahand-Ski-Resort,2019-02-23,,,Max/Min (°C),-8,-9,5.0,W,Wind (km/h),3105,light snow,m,1700,1,cm
+2019-02-23 09:05:05,Sahand-Ski-Resort,2019-02-23,,,Max/Min (°C),-7,-11,5.0,W,Wind (km/h),2915,light snow,m,1700,1,cm
+2019-03-02 10:23:30,Damavand,2019-03-02,"Tehran-Mehrabad International Airport, Elevation level: 1191m",8.0,,,,20,W,,1191,,,,,
+2019-03-02 10:23:29,Damavand,2019-03-02,,,Max/Min (°C),-24,-26,45.0,W,Wind (km/h),5671,snow showers,m,1900,0,cm
+2019-03-02 10:23:30,Damavand,2019-03-02,,,Max/Min (°C),-19,-21,30.0,W,Wind (km/h),4909,snow showers,m,1900,0,cm
+2019-03-02 10:23:31,Damavand,2019-03-02,,,Max/Min (°C),-13,-18,15.0,W,Wind (km/h),4147,snow showers,m,1900,0,cm
+2019-03-02 10:23:32,Sahand-Ski-Resort,2019-03-02,"Tabriz Airport, Elevation level: 1361m",1.6,,,,0,N,,1361,,,,,
+2019-03-02 10:23:31,Sahand-Ski-Resort,2019-03-02,,,Max/Min (°C),-10,-12,25.0,WSW,Wind (km/h),3295,snow showers,m,1550,0,cm
+2019-03-02 10:23:32,Sahand-Ski-Resort,2019-03-02,,,Max/Min (°C),-9,-11,20.0,WSW,Wind (km/h),3105,snow showers,m,1550,0,cm
+2019-03-02 10:23:33,Sahand-Ski-Resort,2019-03-02,,,Max/Min (°C),-7,-11,20.0,WSW,Wind (km/h),2915,snow showers,m,1550,0,cm
