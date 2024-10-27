@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "scipy-stats-optim"
+version = "0.1.0"
+description = ""
+authors = ["kraxli <kraxli@pm.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.1"
+scipy = "*"
+matplotlib = '*'
+pyqt5 = '*'
+
+[tool.poetry.group.dev.dependencies]
+pyright = "*"
+black = "*"
+debugpy = "*"
+ipython = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
